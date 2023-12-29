@@ -1,4 +1,6 @@
-Para USAR el dashboard instalamos las siguientes dependencias
+Para USAR el dashboard instalamos las siguientes dependencias en un entorno virtual
+
+crear un entorno virtual con el siguiente comando : python -m virtualenv env  luego las dependencias o modulos
 
 pip install pandas
 pip install sqlalchemy
