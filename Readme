@@ -1,0 +1,7 @@
+Para USAR el dashboard instalamos las siguientes dependencias
+
+pip install pandas
+pip install sqlalchemy
+pip install streamlit
+pip install plotly
+pip install pyodbc
